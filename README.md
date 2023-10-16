@@ -1,9 +1,10 @@
-### Hi there 👋
+### Heelo World! I'm Azzar 👋
 
 ## About Me
 
 - **Name**: Azzar Sarikhani
 - **Bio**: I'm a mathematics graduate currently studying software engineering, I have implemented multiple projects in C and C++. I have junior-level skills in JavaScript, CSS, HTML, and Python. I am proficient in Git, comfortable with command-line, and experienced in working with github and Jira ticketing systems.
+- 🚴: my free time is full of gardening, cycling, walking, and reading.
 
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/azzar-sarikhani-07a912117">
@@ -24,9 +25,9 @@ Here's a glimpse of my coding adventures:
 - 🔭working on a http <a href="https://github.com/jboucher154/WebServ" target="_blank">webserver</a> in C++. 
 - 🌱learning about docker, http protocol, common gateway interface, ...
 
-## Skills
+### :hammer_and_wrench: Languages and Tools :
 
-- C, C++, JavaScript, Python, HTML, CSS, GIT.
+ C, C++, JavaScript, Python, HTML, CSS, GIT.
 
 
 ### Languages
