@@ -14,8 +14,6 @@
 
 ## Projects
 
-Here's a glimpse of my coding adventures:
-
 1. [**Minishell**](https://github.com/azarSarikhani/minishell): A shell in C language inspired by bash.
 2. [**Philosophers**](https://github.com/azarSarikhani/Philosophers): A multi-threaded solution for the famous dining philosophers’ problem.
 3. [**Cub3d**](https://github.com/azarSarikhani/cub3d): Wolfenstein style 3d game in C language.
@@ -27,11 +25,13 @@ Here's a glimpse of my coding adventures:
 
 ### :hammer_and_wrench: Languages and Tools :
 
- C, C++, JavaScript, Python, HTML, CSS, GIT.
+ C, C++, JavaScript, Python, HTML, CSS, GIT, Jira
 
 
 ### Languages
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img height=50/>
 
+<!---
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=azarSarikhani&show_icons=true&count_private=true&hide=prs&theme=radical)
+-->
