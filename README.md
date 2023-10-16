@@ -21,8 +21,8 @@ Here's a glimpse of my coding adventures:
 4. [**Wordle**](https://github.com/azarSarikhani/42-wordle): A terminal based wordle game that will pick a 5 character long word a day and let you full color experience of the legendary wordle on a terminal.
 
  I’m currently
-- 🔭working on webserver here's the <a href="https://github.com/jboucher154/WebServ" target="_blank">github repo</a>
-- 🌱learning docker and http protocol
+- 🔭working on a http <a href="https://github.com/jboucher154/WebServ" target="_blank">webserver</a> in C++. 
+- 🌱learning about docker, http protocol, common gateway interface, ...
 
 ## Skills
 
