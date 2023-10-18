@@ -1,4 +1,4 @@
-### Heelo World! I'm Azzar 👋
+### Hello World! I'm Azzar 👋
 
 ## About Me
 I'm a mathematics graduate currently studying software engineering, I have implemented multiple projects in C and C++. I have junior-level skills in JavaScript, CSS, HTML, and Python. I am proficient in Git, comfortable with command-line, and experienced in working with github and Jira ticketing systems.
