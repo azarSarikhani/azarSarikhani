@@ -18,8 +18,8 @@ My free time is full of gardening, cycling 🚴 , walking, and reading.
 4. [**Wordle**](https://github.com/azarSarikhani/42-wordle): A terminal based wordle game that will pick a 5 character long word a day and let you full color experience of the legendary wordle on a terminal.
 
  I’m currently
-- 🔭working on a http <a href="https://github.com/jboucher154/WebServ" target="_blank">webserver</a> in C++. 
-- 🌱learning about docker, http protocol, common gateway interface, ...
+- 🔭working on an http <a href="https://github.com/jboucher154/WebServ" target="_blank">webserver</a> in C++. 
+- 🌱learning about docker, fast api, ...
 
 ### :hammer_and_wrench: Languages and Tools :
 
