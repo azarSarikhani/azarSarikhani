@@ -19,7 +19,7 @@ My free time is full of gardening, cycling 🚴 , walking, and reading.
 
  I’m currently
 - 🔭working on an http <a href="https://github.com/jboucher154/WebServ" target="_blank">webserver</a> in C++. 
-- 🌱learning about docker, fast api, ...
+- 🌱learning about building an http api with fast api on python <a href="https://github.com/azarSarikhani/fastAPI_app" target="_blank">FastAPI_app</a> 
 
 ### :hammer_and_wrench: Languages and Tools :
 
