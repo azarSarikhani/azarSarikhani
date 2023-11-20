@@ -1,8 +1,7 @@
 ### Hello World! I'm Azzar 👋
 
 ## About Me
-I'm a mathematics graduate currently studying software engineering, I have implemented multiple projects in C and C++. I have junior-level skills in JavaScript, CSS, HTML, and Python. I am proficient in Git, comfortable with command-line, and experienced in working with github and Jira ticketing systems.
-My free time is full of gardening, cycling 🚴 , walking, and reading.
+I'm a mathematics graduate currently studying software engineering and approaching graduation. I am proficient in Git, comfortable with command-line and experienced with ticket management tools. My free time is full of gardening, cycling 🚴 , walking, and reading.
 
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/azzar-sarikhani-07a912117">
@@ -19,7 +18,7 @@ My free time is full of gardening, cycling 🚴 , walking, and reading.
 
  I’m currently
 - 🔭working on an http <a href="https://github.com/jboucher154/WebServ" target="_blank">webserver</a> in C++. 
-- 🌱learning about building an http api with fast api on python <a href="https://github.com/azarSarikhani/fastAPI_app" target="_blank">FastAPI_app</a> 
+- 🌱learning about building an http api with fast api on python using MySQL as data base managing system <a href="https://github.com/azarSarikhani/fastAPI_app" target="_blank">FastAPI_app</a> 
 
 ### :hammer_and_wrench: Languages and Tools :
 
