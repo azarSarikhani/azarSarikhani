@@ -22,7 +22,7 @@ I'm a mathematics graduate currently studying software engineering and approachi
 
 ### :hammer_and_wrench: Languages and Tools :
 
- C, C++, JavaScript, Python, HTML, CSS, GIT, Jira
+C, C++, lldb ,Bash script, Javascript, CSS, HTML, GIT, MySQL, Jira, Python,FastAPI,HTTP protocol
 
 
 ### Languages
