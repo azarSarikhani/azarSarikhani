@@ -4,7 +4,7 @@
 I'm a mathematics graduate currently studying software engineering and approaching graduation. I am proficient in Git, comfortable with command-line and experienced with ticket management tools. My free time is full of gardening, cycling 🚴 , walking, and reading.
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/azzar-sarikhani-07a912117">
+  <a href="https://www.linkedin.com/in/azzar-sarikhani-07a912117">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
