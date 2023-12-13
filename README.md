@@ -1,13 +1,16 @@
 ### Hello World! I'm Azzar 👋
 
 ## About Me
-I'm a mathematics graduate currently studying software engineering and approaching graduation. I am proficient in Git, comfortable with command-line and experienced with ticket management tools. My free time is full of gardening, cycling 🚴 , walking, and reading.
+I'm a mathematics graduate currently studying software engineering in Hive Helsinki and approaching graduation. I am proficient in Git, comfortable with command-line and experienced with ticket management tools. My free time is full of gardening, cycling 🚴 , walking, and reading.
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/azzar-sarikhani-07a912117">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+## About My Software Engineering Studies
+Hive Helsinki is a different type of school to the average university where instead of theoretical learning of concepts, the students focus on practical hands-on projects where students get into the nitty-gritty technicalities of how code is actually written, built, tested, and version controlled. At Hive Helsinki I have learnt through peer-to-peer methods of learning how problems are refined, broken into smaller components, and solved with rigor and efficiency that is only possible with great communication skills and teamwork. Hive graduates have gained a reputation for being excellent new hires compared to the average computer science degree college graduates, who might not have as much hands on experience and may need a lot of hand holding.
 
 ## Projects
 
