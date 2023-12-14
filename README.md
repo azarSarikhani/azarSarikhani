@@ -10,7 +10,7 @@ I'm a mathematics graduate currently studying software engineering in Hive Helsi
 </div>
 
 ## About My Software Engineering Studies
-Hive Helsinki is a different type of school to the average university where instead of theoretical learning of concepts, the students focus on practical hands-on projects where students get into the nitty-gritty technicalities of how code is actually written, built, tested, and version controlled. At Hive Helsinki I have learnt through peer-to-peer methods of learning how problems are refined, broken into smaller components, and solved with rigor and efficiency that is only possible with great communication skills and teamwork. Hive graduates have gained a reputation for being excellent new hires compared to the average computer science degree college graduates, who might not have as much hands on experience and may need a lot of hand holding.
+Hive Helsinki is a different type of school to the average university where instead of theoretical learning of concepts, the students focus on practical hands-on projects, and get into the nitty-gritty technicalities of how code is actually written, built, tested, and version controlled. At Hive Helsinki I have learnt through peer-to-peer methods of learning how problems are refined, broken into smaller components, and solved with rigor and efficiency that is only possible with great communication skills and teamwork. Hive graduates have gained a reputation for being excellent new hires compared to the average computer science degree college graduates, who might not have as much hands on experience and may need a lot of hand holding.
 
 ## Projects
 
