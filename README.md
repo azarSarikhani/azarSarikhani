@@ -18,7 +18,7 @@ Hive Helsinki is a different type of school to the average university where inst
 2. [**Philosophers**](https://github.com/azarSarikhani/Philosophers): A multi-threaded solution for the famous dining philosophers’ problem.
 3. [**Cub3d**](https://github.com/azarSarikhani/cub3d): Wolfenstein style 3d game in C language.
 4. [**Wordle**](https://github.com/azarSarikhani/42-wordle): A terminal based wordle game that will pick a 5 character long word a day and let you full color experience of the legendary wordle on a terminal.
-5. [**WebServ**](https://https://github.com/jboucher154/WebServ): An Http webserver in C++.
+5. [**WebServ**](https://github.com/jboucher154/WebServ): An Http webserver in C++.
 
 
  I’m currently
