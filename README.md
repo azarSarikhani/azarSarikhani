@@ -19,20 +19,22 @@ Hive Helsinki is a different type of school to the average university where inst
 3. [**Cub3d**](https://github.com/azarSarikhani/cub3d): Wolfenstein style 3d game in C language.
 4. [**Wordle**](https://github.com/azarSarikhani/42-wordle): A terminal based wordle game that will pick a 5 character long word a day and let you full color experience of the legendary wordle on a terminal.
 5. [**WebServ**](https://github.com/jboucher154/WebServ): An Http webserver in C++.
+6. [**Inception**](https://github.com/azarSarikhani/Inception): A system administration project with docker.
 
 
  I’m currently
-- 🔭working on a system administration project  with docker <a href ="https://github.com/azarSarikhani/Inception" target="_blank">Inception</a>. 
-- 🌱learning about building an http api with fast api on python using MySQL as data base managing system <a href="https://github.com/azarSarikhani/fastAPI_app" target="_blank">FastAPI_app</a> 
+- 🔭working on developing a website on a private repo.
+- 🌱learning about Azure DevOps
 
 ### :hammer_and_wrench: Languages and Tools :
 
-C, C++, lldb ,Bash script, Javascript, CSS, HTML, GIT, MySQL, Jira, Python,FastAPI,HTTP protocol
+C, C++, lldb ,Bash script, Javascript, CSS, HTML, GIT, MySQL, Jira, Python,FastAPI,HTTP protocol, docker
 
 
 ### Languages
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img height=50/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img height=50/
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/><img height=50/>
 
 <!---
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=azarSarikhani&show_icons=true&count_private=true&hide=prs&theme=radical)
