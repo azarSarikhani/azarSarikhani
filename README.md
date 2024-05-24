@@ -1,7 +1,22 @@
 ### Hello World! I'm Azzar 👋
 
 ## About Me
-I'm a mathematics graduate currently working as a DevUps engineer at Danfoss Drive Finland. I am proficient in Git, comfortable with command-line and experienced with ticket management tools. My free time is full of gardening, cycling 🚴 , walking, and reading.
+I'm a mathematics
+bachelor graduate
+currently working as a
+devops engineer trainee in
+Danfoss Drives, and
+studying software
+engineering, approaching
+graduation. Having strong
+Devops mindset, I am
+proficient in Git, seasoned
+with various command-line
+tools and experienced with
+containerised solutions. My
+secret weapon is being
+comfortable with facing
+the unknown.
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/azzar-sarikhani-07a912117">
@@ -23,7 +38,7 @@ Hive Helsinki is a different type of school to the average university where inst
 
 
  I’m currently
-- 🔭working on developing a website on a private [repo](https://github.com/dorianjagusch/ft_transcendence.
+- 🔭working on developing a [website](https://github.com/dorianjagusch/ft_transcendence).
 - 🌱learning about Azure DevOps 
 
 ### :hammer_and_wrench: Languages and Tools :
