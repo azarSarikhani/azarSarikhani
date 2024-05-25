@@ -42,11 +42,16 @@ Hive Helsinki is a different type of school to the average university where inst
 - 🌱learning about Azure DevOps 
 
 ### :hammer_and_wrench: Languages and Tools :
-
-C, C++, lldb ,Bash script, Javascript, CSS, HTML, GIT, MySQL, Jira, Python,FastAPI,HTTP protocol, docker, Azure devups, grafana, jfrog, 
-
-
-### Languages
+Python, FastAPI, HTTP and
+web socket protocol,
+Django, Channels, Azure
+Devops services,
+Powershell, docker,
+Postman, C, C++, lldb ,Bash
+script, Javascript, CSS,
+HTML, GIT, MySQL, Jira,
+Postgresql, CMake,
+Makefile, grafana, jfrog, 
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img height=50/
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/><img height=50/>
