@@ -38,7 +38,7 @@ Hive Helsinki is a different type of school to the average university where inst
 
 
  I’m currently
-- 🔭working on developing a [website](https://github.com/dorianjagusch/ft_transcendence).
+- 🔭working on backend development of an online pong [website](https://github.com/dorianjagusch/ft_transcendence).
 - 🌱learning about Azure DevOps 
 
 ### :hammer_and_wrench: Languages and Tools :
