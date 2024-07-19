@@ -53,8 +53,8 @@ HTML, GIT, MySQL, Jira,
 Postgresql, CMake,
 Makefile, grafana, jfrog, 
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img height=50/
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/><img height=50/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/> 
+<img height=50 src="https://skillicons.dev/icons?i=cmake,grafana,azure,docker,django,python,fastapi,postman,bash,powershell,linux,js,html,css"/><img height=50/>
 
 <!---
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=azarSarikhani&show_icons=true&count_private=true&hide=prs&theme=radical)
