@@ -5,10 +5,8 @@ I'm a mathematics
 bachelor graduate
 currently working as a
 devops engineer trainee in
-Danfoss Drives, and
-studying software
-engineering, approaching
-graduation. Having strong
+Danfoss Drives. I have studied and graduated from software
+engineering from Hive Helsinki. Having strong
 Devops mindset, I am
 proficient in Git, seasoned
 with various command-line
@@ -35,11 +33,7 @@ Hive Helsinki is a different type of school to the average university where inst
 4. [**Wordle**](https://github.com/azarSarikhani/42-wordle): A terminal based wordle game that will pick a 5 character long word a day and let you full color experience of the legendary wordle on a terminal.
 5. [**WebServ**](https://github.com/jboucher154/WebServ): An Http webserver in C++.
 6. [**Inception**](https://github.com/azarSarikhani/Inception): A system administration project with docker.
-
-
- I’m currently
-- 🔭working on backend development of an online pong [website](https://github.com/dorianjagusch/ft_transcendence).
-- 🌱learning about Azure DevOps 
+7. [**Transcendence**](https://github.com/dorianjagusch/ft_transcendence): An oline gaming website.
 
 ### :hammer_and_wrench: Languages and Tools :
 Python, FastAPI, HTTP and
@@ -51,9 +45,9 @@ Postman, C, C++, lldb ,Bash
 script, Javascript, CSS,
 HTML, GIT, MySQL, Jira,
 Postgresql, CMake,
-Makefile, grafana, jfrog, 
+Makefile, prometheus, grafana, jfrog, 
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><img height=50 src="https://skillicons.dev/icons?i=cmake,grafana,azure,docker,bash,powershell,linux,git,django,python,fastapi,postman,js,html,css"/><img height=50/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><img height=50 src="https://skillicons.dev/icons?i=cmake,prometheus,grafana,azure,docker"/><img height=50 src="https://skillicons.dev/icons?i=bash,powershell,linux,git,django,python,fastapi,postman,js,html,css"/><img height=50/>
 
 <!---
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=azarSarikhani&show_icons=true&count_private=true&hide=prs&theme=radical)
