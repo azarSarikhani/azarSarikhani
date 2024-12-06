@@ -5,7 +5,7 @@ I'm a mathematics
 bachelor graduate
 currently working as a
 devops engineer trainee in
-Danfoss Drives. I have studied and graduated from software
+Danfoss Drives. I have studied and graduated in software
 engineering from Hive Helsinki. Having strong
 Devops mindset, I am
 proficient in Git, seasoned
