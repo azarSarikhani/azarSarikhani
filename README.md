@@ -1,29 +1,13 @@
 ### Hello World! I'm Azzar 👋
 
 ## About Me
-I'm a mathematics
-bachelor graduate
-currently working as a
-devops engineer trainee in
-Danfoss Drives. I have studied and graduated in software
-engineering from Hive Helsinki. Having strong
-Devops mindset, I am
-proficient in Git, seasoned
-with various command-line
-tools and experienced with
-containerised solutions. My
-secret weapon is being
-comfortable with facing
-the unknown.
+I'm a mathematics bachelor graduate and a software engineering graduate- from Hive Helsinki, currently working as a test automation engineer in Visma. Having strong Devops mindset, specially in azure DevOps environment, I am proficient in Git, seasoned with various command-line tools and experienced with containerised solutions. My secret weapon is being comfortable with facing the unknown.
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/azzar-sarikhani-07a912117">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-## About My Software Engineering Studies
-Hive Helsinki is a different type of school to the average university where instead of theoretical learning of concepts, the students focus on practical hands-on projects, and get into the nitty-gritty technicalities of how code is actually written, built, tested, and version controlled. At Hive Helsinki I have learnt through peer-to-peer methods of learning how problems are refined, broken into smaller components, and solved with rigor and efficiency that is only possible with great communication skills and teamwork. Hive graduates have gained a reputation for being excellent new hires compared to the average computer science degree college graduates, who might not have as much hands on experience and may need a lot of hand holding.
 
 ## Projects
 
@@ -42,12 +26,12 @@ Django, Channels, Azure
 Devops services,
 Powershell, docker,
 Postman, C, C++, lldb ,Bash
-script, Javascript, CSS,
+script, Javascript, typescript CSS,
 HTML, GIT, MySQL, Jira,
-Postgresql, CMake,
+Postgresql, CMake, playwright
 Makefile, prometheus, grafana, jfrog, 
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><img height=50 src="https://skillicons.dev/icons?i=cmake,prometheus,grafana,azure,docker"/><img height=50 src="https://skillicons.dev/icons?i=bash,powershell,linux,git,django,python,fastapi,postman,js,html,css"/><img height=50/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><img height=50 src="https://skillicons.dev/icons?i=cmake,prometheus,grafana,azure,docker"/><img height=50 src="https://skillicons.dev/icons?i=bash,powershell,typescript,linux,git,django,python,fastapi,postman,js,html,css"/><img height=50/>
 
 <!---
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=azarSarikhani&show_icons=true&count_private=true&hide=prs&theme=radical)
