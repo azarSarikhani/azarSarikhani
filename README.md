@@ -31,7 +31,7 @@ HTML, GIT, MySQL, Jira,
 Postgresql, CMake, playwright
 Makefile, prometheus, grafana, jfrog, 
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><img height=50 src="https://skillicons.dev/icons?i=cmake,prometheus,grafana,azure,docker"/><img height=50 src="https://skillicons.dev/icons?i=bash,powershell,typescript,linux,git,django,python,fastapi,postman,js,html,css"/><img height=50/>
+<img height=50 src="https://skillicons.dev/icons?i=c,cmake,prometheus,grafana,azure,docker"/><img height=50 src="https://skillicons.dev/icons?i=bash,powershell,typescript,linux,git,django,python,fastapi,postman,js,html,css"><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><img height=50/>
 
 <!---
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=azarSarikhani&show_icons=true&count_private=true&hide=prs&theme=radical)
